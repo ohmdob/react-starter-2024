@@ -8,4 +8,4 @@
 
 #### have fun :)
 
-![Image](/demo01.png "San Juan demo01")
+![Image](/demo01.png "demo01")
